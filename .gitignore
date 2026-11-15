@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build & coverage outputs
+build/
+dist/
+coverage/
+
+# Vercel local cache
+.vercel/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs & Firebase debug logs
+*.log
+npm-debug.log*
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*
+
+# Local Firebase CLI cache
+.firebase/
+
+# Environment variables (preserve .env.example)
+.env
+.env.local
+.env.production.local
+.env.*.local
+!.env.example

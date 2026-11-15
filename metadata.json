@@ -1,0 +1,6 @@
+{
+  "name": "CloudNote",
+  "description": "Cloud-Based Notes Management System powered by Firebase Authentication and Cloud Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
